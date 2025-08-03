@@ -3,18 +3,17 @@ name = "llm-playground"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = "==3.9.6"
+requires-python = ">=3.11"
 dependencies = [
-    "boto3>=1.40.1",
     "datasets>=4.0.0",
-    "gensim>=4.3.2",
+    "gensim>=4.3.3",
     "ipykernel>=6.30.0",
-    "matplotlib>=3.9.4",
-    "numpy>=2.0.2",
+    "matplotlib>=3.10.5",
+    "numpy>=1.26.4",
     "pandas>=2.3.1",
     "pytorch-transformers>=1.2.0",
-    "scikit-learn>=1.6.1",
-    "scipy>=1.13.1",
+    "scikit-learn>=1.7.1",
+    "scipy==1.10.1",
     "seaborn>=0.13.2",
     "sentence-transformers>=5.0.0",
     "torch>=2.7.1",
