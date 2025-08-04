@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "datasets>=4.0.0",
+    "flwr[simulation]>=1.20.0",
     "gensim>=4.3.3",
     "ipykernel>=6.30.0",
     "matplotlib>=3.10.5",
