@@ -5,8 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "datasets>=4.0.0",
+    "datasets==2.16.0",
     "flwr[simulation]>=1.20.0",
+    "flwr-datasets==0.3.0",
     "gensim>=4.3.3",
     "ipykernel>=6.30.0",
     "matplotlib>=3.10.5",
