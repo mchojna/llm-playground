@@ -2,5 +2,4 @@
 data
 models
 .DS_Store
-./07-pre-training-llms/tmp/preprocessed_dataset.parquet
 07-pre-training-llms/tmp/preprocessed_dataset.parquet
