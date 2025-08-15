@@ -1,3 +1,5 @@
 .venv
 models
+data
+code
 .DS_Store
